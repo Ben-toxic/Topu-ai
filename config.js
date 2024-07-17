@@ -19,7 +19,7 @@ global.website = process.env.GURL || "https://wa.me/254719485000";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/c0dd51c05d02eb80021e6.jpg";
 global.devs = "255673750170";
 global.sudo = process.env.SUDO || "254719485000";
-global.owner = process.env.OWNER_NUMBER || "254719485000";
+global.owner = process.env.OWNER_NUMBER || "263782863950";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "true";
@@ -52,7 +52,7 @@ module.exports = {
   author: process.env.PACK_AUTHER || "TOPU",
   packname: process.env.PACK_NAME || "♥️",
   botname: process.env.BOT_NAME || "TOP-Md",
-  ownername: process.env.OWNER_NAME || "BEN",
+  ownername: process.env.OWNER_NAME || "Etoo",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
